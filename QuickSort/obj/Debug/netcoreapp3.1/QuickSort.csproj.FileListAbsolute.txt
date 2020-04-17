@@ -1,0 +1,11 @@
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csprojAssemblyReference.cache
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Morte\OneDrive\Dokumenter\IKT - Studie\4. Semester\SWD\11.2 - C# Tasks\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
